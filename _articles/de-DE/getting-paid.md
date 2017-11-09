@@ -15,23 +15,23 @@ related:
   - leadership
 ---
 
-## Why some people seek financial support
+## Warum manche Leute finanzielle Unterstützung suchen
 
-Much of open source work is volunteered. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
+Der Großteil der Open-Source Arbeit ist freiwillige. Zum Beispiel findet jemand einen Bug in einem genutzten Porjekt und reicht flink eine Fehlerbehebung ein oder sie finden Spaß daran an dem Open-Source Projekt zu tüfteln.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/2894642?v=3&s=460" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+Ich suchte nach einen "Hobby" Programmier-Projekt, das mich über die Weihnachtszeit beschäftigt. (...) Ich hatte einen Heim Computer und nicht viel mehr. (...) Ich entschloss mich einen Interpreter für die neue Skript-Sprache, über die ich schon viel nachgedacht habe, zu schreiben. Ich gab dem Projekt den Arbeitstitel "Python".
   <p markdown="1" class="pquote-credit">
-— @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
+— @gvanrossum, ["Programming Python (Englisch)"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
-There are many reasons why a person would not want to be paid for their open source work.
+Es gibt viele Gründe warum eine Person nicht für ihre Open-Source Arbeit bezahlt werden möchte.
 
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
+* **Sie haben vielleicht schon einen Vollzeit Arbeitsplatz, den sie lieben,** und es ihnen ermöglicht sich ein der Freizeit für ein Open-Source Projekt einzubringen.
+* **Sie sehen Open-Source als ein Hobby** oder einen kreativen Ausgleich und fühlen sich finanziell nicht verpflichtet.
+* **Sie haben andere Vorzüge von Open-Source Projekten,** so wie ihren Ruf und Fähigkeiten zu verbessern, Neues dazu zu lernen oder sich einer Gemeinschaft näher fühlen. 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/2320?v=3&s=460" class="pquote-avatar" alt="avatar">
